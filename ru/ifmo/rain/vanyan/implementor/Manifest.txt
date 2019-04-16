@@ -1,0 +1,2 @@
+Main-Class: ru.ifmo.rain.vanyan.implementor.Implementor
+Implementation-Vendor: Vanyan Tigran 
